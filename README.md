@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>액부</title>
